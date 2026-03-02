@@ -1,0 +1,7 @@
+2026-03-02 06:23:07-root-DEBUG-This won't show
+2026-03-02 06:23:07-root-INFO-This won't show
+2026-03-02 06:23:07-root-WARNING-This will show
+2026-03-02 06:23:07-root-ERROR-This will show
+2026-03-02 06:23:07-root-CRITICAL-This is a critical message
+2026-03-02 06:23:15-root-ERROR-This will show
+2026-03-02 06:23:15-root-CRITICAL-This is a critical message
