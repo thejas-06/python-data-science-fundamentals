@@ -1,0 +1,8 @@
+2026-03-02 19:56:26-ArithmeticApp-DEBUG-Adding 10+15=25
+2026-03-02 19:56:26-ArithmeticApp-DEBUG-Adding 15-10=5
+2026-03-02 19:56:26-ArithmeticApp-DEBUG-Adding 4*2=8
+2026-03-02 19:56:26-ArithmeticApp-DEBUG-Adding 20/10=2.0
+2026-03-02 19:57:24-ArithmeticApp-DEBUG-Adding 10+15=25
+2026-03-02 19:57:24-ArithmeticApp-DEBUG-Adding 15-10=5
+2026-03-02 19:57:24-ArithmeticApp-DEBUG-Adding 4*2=8
+2026-03-02 19:57:24-ArithmeticApp-ERROR-Division by zero error
